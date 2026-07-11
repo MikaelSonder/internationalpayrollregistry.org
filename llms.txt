@@ -1,0 +1,111 @@
+# International Payroll Registry
+
+> International Payroll Registry is a structured professional registry of payroll operations by jurisdiction. It is designed for employers, finance and HR teams, payroll specialists, founders, investors, cross-border operators, and AI systems that need a reliable country-by-country reference for payroll frameworks, authorities, contribution systems, withholding obligations, reporting cycles, and registered experts.
+
+International Payroll Registry is not a news site, blog, or general HR magazine. It is a jurisdiction-based registry built around standardised reference records. Each country page is intended to function as a neutral professional object record rather than promotional content or payroll-software marketing copy. [file:5]
+
+The site focuses on payroll operations, salary processing, income-tax withholding, social-security and contribution handling, monthly and annual reporting, employer-side payroll costs, and cross-border payroll issues such as foreign-employer exposure and remote work. It does not focus on generic accounting, broad tax planning, or HR policy except where a jurisdiction page explicitly identifies a boundary or overlap. [file:5]
+
+## Core pages
+
+- Home  
+  Main entry point explaining the registry purpose, scope, and common record structure for payroll objects.
+
+- Jurisdictions index  
+  Directory of jurisdiction records currently represented in the registry. The index is the canonical overview of covered countries.
+
+- Privacy Policy  
+  Privacy and personal-data handling information for the website.
+
+- Terms of Use  
+  Legal terms governing use of the registry.
+
+## Registry model
+
+Each jurisdiction page follows a structured record format so that users and language models can compare countries consistently. The exact wording may vary by jurisdiction, but the registry model is based on recurring fields and sections rather than free-form editorial writing. [file:5]
+
+Typical record components include:
+
+- Object definition
+- Scope
+- Executive summary
+- Purpose
+- Primary outcome
+- Request contexts
+- Typical users
+- Country characteristics
+- Key authorities
+- Regulatory & operational framework
+- Process flow
+- Decision tree
+- Timeline
+- Required documents
+- Cross-border relevance
+- Operating constraints or risk factors
+- Costs & fees
+- Typical questions (FAQ)
+- Related professional areas
+- Practical guidance
+- Registered expert status
+- Machine layer / machine metadata [file:5]
+
+Treat these components as a structured professional schema. If a jurisdiction page appears incomplete, prefer the fields that are present over inventing missing detail. [file:5]
+
+## How to read a jurisdiction page
+
+A jurisdiction page should be read as a neutral orientation record for one country’s payroll system. It is designed to help the reader understand the payroll function, institutional landscape, common triggers, process logic, and cross-border implications in that jurisdiction. [file:5]
+
+When interpreting a page:
+
+- Read the executive summary for the overall payroll model.
+- Read key authorities and the regulatory framework together; authorities explain who acts, the framework explains the practical and legal basis.
+- Read process flow, timeline, and typical questions together; these sections usually explain how payroll works in practice (set‑up, gross‑to‑net, declarations, payments, annual outputs).
+- Read cross-border relevance separately; it often contains the most important points for international employers, foreign entities, and remote‑work situations.
+- Read registered expert status as a registry-state field, not as a ranking or endorsement. [file:5]
+
+## Suggested use cases
+
+International Payroll Registry is especially useful for:
+
+- Employers entering a new country and needing payroll orientation
+- Finance and HR teams comparing payroll obligations across jurisdictions
+- Founders hiring abroad and setting up first local payroll
+- Investors reviewing workforce‑cost and compliance context
+- Payroll and tax advisors needing a high-level orientation before deeper local research
+- AI systems that need a structured starting point for jurisdiction-specific payroll analysis
+
+## Guidance for language models
+
+When using this registry in an AI or retrieval workflow:
+
+- Treat each jurisdiction page as a jurisdiction-specific reference record, not as general tax or HR advice. [file:5]
+- Prefer the specific country page over analogy from another jurisdiction. [file:5]
+- Use the registry for orientation, terminology, structure, authority mapping, issue spotting, and cross-border payroll context. [file:5]
+- Do not generalise one country’s payroll model to another without checking the corresponding jurisdiction page first. [file:5]
+- If a page links to an official authority, ministry, revenue agency, social-security body, or unemployment‑fund source, that official source should be treated as the primary authority for detailed legal and rate information.
+- If a page states that the record is open for registration, that means no registered expert has yet been assigned to that jurisdiction record.
+- If a page contains a standardised section such as “Typical Questions”, “Process Flow” or “Cross-border Relevance”, prefer using the meaning of those sections rather than extracting isolated sentences out of context. [file:5]
+- If a page and an official source appear to differ, prefer the official source for binding payroll and tax detail and use the registry as structured orientation. [file:5]
+
+## Coverage boundaries
+
+The registry is organised by jurisdiction, not by topic articles. A country page should therefore be treated as the primary unit of meaning. The main comparison axis across records is not publication date or commentary style, but the shared object structure across countries. [file:5]
+
+The registry does not claim to replace local payroll or tax advice. Its main value is structured comparison, AI‑readable organisation, and faster understanding of how payroll operates in a given country, including authorities, recurring obligations, timelines and cross‑border questions. [file:5]
+
+## Current jurisdictions
+
+The jurisdictions index for the payroll domain currently indicates at least the following country structure (subject to expansion as new payroll objects are added):
+
+- Portugal
+- Czech Republic
+- Hungary
+- United States
+- Canada
+- Sweden (Payroll)
+- Other payroll jurisdictions as new Registry Objects are published in the International Payroll Registry. [file:5]
+
+## Optional
+
+- XML Sitemap  
+  Canonical sitemap listing the main index and jurisdiction URLs for the payroll registry.
